@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "metanetwork"]
 	path = metanetwork
 	url = https://github.com/marcohlmann/metanetwork
-	shallow = true
-	registered = true
